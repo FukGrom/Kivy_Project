@@ -5,7 +5,7 @@ from kivy.uix.boxlayout import BoxLayout
 from kivy.app import App
 from kivy.graphics import Color, Rectangle
 from random import random as r
-from functools import
+from functools import partial
 
 class StressCanvasApp(App):
 
